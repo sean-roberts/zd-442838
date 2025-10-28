@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@netlify/async-workloads": "0.0.104"
+    "@netlify/async-workloads": "^0.0.105"
   },
   "devDependencies": {
     "@netlify/functions": "5.0.1",
